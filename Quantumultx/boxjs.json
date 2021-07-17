@@ -3,7 +3,7 @@
   "name": "Worryfree 脚本订阅",
   "author": "@Worryfrees",
   "icon": "https://cdn.jsdelivr.net/gh/Worryfrees/Worryfrees@main/ico.GIF",
-  "repo": "https://github.com/Worryfrees/scripts",
+  "repo": "https://github.com/Worryfrees/script",
     "apps": [
  {
         "id": "jf",
@@ -78,7 +78,7 @@
           }
         ],
         "author": "Worryfrees",
-        "repo": "https://GitHub.com/Worryfrees/scripts",
+        "repo": "https://GitHub.com/Worryfrees/script",
         "icons": [
           "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/eb/a8/f6/eba8f63a-b550-4586-b5d3-f22c0718ef81/source/100x100bb.jpg",
           "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/eb/a8/f6/eba8f63a-b550-4586-b5d3-f22c0718ef81/source/100x100bb.jpg"
@@ -233,8 +233,8 @@
  				"https://raw.githubusercontent.com/ZCY01/img/master/jdtry.png"
  			],
  			"author": "@Worryfrees",
- 			"repo": "https://github.com/Worryfrees/scripts",
- 			"script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Rewrites/JD/shiyong/jd_try.js"
+ 			"repo": "https://github.com/Worryfrees/script",
+ 			"script": "https://raw.githubusercontent.com/Worryfrees/script/main/Rewrites/JD/shiyong/jd_try.js"
  		},
  {
       "id": "JD_Cookies",
@@ -274,7 +274,7 @@
         "@github_private_repo.token"
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
+      "repo": "https://github.com/Worryfrees/script",
       "settings": [
         {
           "id": "@github_private_repo.username",
@@ -330,7 +330,7 @@
         "https://qinglong.whyour.cn/qinglong.png"
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
+      "repo": "https://github.com/Worryfrees/script",
       "script": "https://raw.githubusercontent.com/dompling/Script/master/jd/ql_cookie_sync.js",
       "descs_html": [
         "青龙 docker 的安装方式请移步 tg 频道",
@@ -378,8 +378,8 @@
          }
        ],
        "author": "@Worryfrees",
-       "repo": "https://github.com/Worryfrees/scripts",
-       "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/jd_scripts/jd_joy_reward.js",
+       "repo": "https://github.com/Worryfrees/script",
+       "script": "https://raw.githubusercontent.com/Worryfrees/script/main/jd_scripts/jd_joy_reward.js",
        "icons": [
          "https://raw.githubusercontent.com/58xinian/icon/master/jdcww_mini.png",
          "https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png"
@@ -408,18 +408,18 @@
         }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
+      "repo": "https://github.com/Worryfrees/script",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/github.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/github.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/Github/github.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/Github/github.js"
     },
 {
       "id": "nasapic",
       "name": "NASA每日一图",
       "descs_html": [
-        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/nasa/nasapic.js\">脚本地址</a>】",
+        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/nasa/nasapic.js\">脚本地址</a>】",
         "首先前往<a href=\"https://api.nasa.gov\">NASA</a>申请一个API，申请流程非常简单，把得到的API填入脚本即可"
       ],
       "keys": ["@NASA.nasaapi"],
@@ -443,12 +443,12 @@
         }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
+      "repo": "https://github.com/Worryfrees/script",
       "icons": [
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/nasa_tran.png",
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/nasa.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/nasa/nasapic.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/nasa/nasapic.js"
     } ,
     {
       "id": "Caiyun",
@@ -502,12 +502,12 @@
         }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
+      "repo": "https://github.com/Worryfrees/script",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/caiyun.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/caiyun/caiyun.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/caiyun/caiyun.js"
     },
     {
       "id": "xmSports",
@@ -541,8 +541,8 @@
         }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/xiaomi/xiaomiyundong.js",
+      "repo": "https://github.com/Worryfrees/script",
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/xiaomi/xiaomiyundong.js",
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/xmyd_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png"
@@ -552,7 +552,7 @@
       "id": "idaily",
       "name": "iDaily",
       "descs_html": [
-        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/iDaily/idaily.js\">脚本地址</a>】"
+        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/iDaily/idaily.js\">脚本地址</a>】"
       ],
       "keys": ["@iDaily.random"],
       "settings": [
@@ -565,12 +565,12 @@
         }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
+      "repo": "https://github.com/Worryfrees/script",
       "icons": [
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/idaily_tran.png",
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/idaily.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/iDaily/idaily.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/iDaily/idaily.js"
     },    
  {
       "id": "deleteCoupon",
@@ -579,8 +579,8 @@
         { "id": "CFG_DELCOUPON_LEAVE", "name": "需要保留的优惠券关键字", "val": "", "type": "textarea", "desc": "需要保留的，英文逗号隔开，输入关键字即可" }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Rewrites/JD/jd_deleteCoupon.js",
+      "repo": "https://github.com/Worryfrees/script",
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Rewrites/JD/jd_deleteCoupon.js",
       "icons": ["https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png", "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png"]
     },
 {
@@ -604,8 +604,8 @@
         }
       ],
       "author": "@Worryfrees",
-      "repo": "https://github.com/Worryfrees/scripts",
-      "script": "https://raw.githubusercontent.com/Worryfrees/scripts/main/Quantumultx/alipay/Alipay.js",
+      "repo": "https://github.com/Worryfrees/script",
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/alipay/Alipay.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/alipay.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/alipay.png"]
@@ -614,7 +614,7 @@
     "id": "BiliRegion",
     "name": "哔哩番剧自动地区",
     "descs_html": [
-      "<h4 align=\"center\">脚本配置请查看<a href=\"https://raw.githubusercontent.com/Worryfrees/scripts/main/Rewrites/bilibili/Bili_Auto_Regions.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">脚本配置请查看<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Rewrites/bilibili/Bili_Auto_Regions.js\">脚本注释</a></h4>"
     ],
     "keys": ["BiliArea_Policy", "BiliArea_CN", "BiliArea_HK", "BiliArea_TW"],
     "settings": [{
@@ -659,7 +659,7 @@
       "desc": "哔哩哔哩分流策略组里的台湾子策略名"
     }],
     "author": "@Worryfrees",
-    "repo": "https://github.com/Worryfrees/scripts",
+    "repo": "https://github.com/Worryfrees/script",
     "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/bilibili.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/bilibili.png"]
   }]
 }

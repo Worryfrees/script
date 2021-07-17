@@ -214,13 +214,13 @@
         "https://raw.githubusercontent.com/Orz-3/mini/master/github.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/github.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/Github/github.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/Github/github.js"
     },
 {
       "id": "nasapic",
       "name": "NASA每日一图",
       "descs_html": [
-        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/nasa/nasapic.js\">脚本地址</a>】",
+        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Surge/nasa/nasapic.js\">脚本地址</a>】",
         "首先前往<a href=\"https://api.nasa.gov\">NASA</a>申请一个API，申请流程非常简单，把得到的API填入脚本即可"
       ],
       "keys": ["@NASA.nasaapi"],
@@ -249,7 +249,7 @@
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/nasa_tran.png",
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/nasa.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/nasa/nasapic.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/nasa/nasapic.js"
     } ,
     {
       "id": "Caiyun",
@@ -308,7 +308,7 @@
         "https://raw.githubusercontent.com/Orz-3/mini/master/caiyun.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/caiyun/caiyun.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/caiyun/caiyun.js"
     },
     {
       "id": "xmSports",
@@ -343,7 +343,7 @@
       ],
       "author": "@Worryfrees",
       "repo": "https://github.com/Worryfrees/script",
-      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/xiaomi/xiaomiyundong.js",
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/xiaomi/xiaomiyundong.js",
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/xmyd_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png"
@@ -353,7 +353,7 @@
       "id": "idaily",
       "name": "iDaily",
       "descs_html": [
-        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/iDaily/idaily.js\">脚本地址</a>】"
+        "点此直达【<a href=\"https://raw.githubusercontent.com/Worryfrees/script/main/Surge/iDaily/idaily.js\">脚本地址</a>】"
       ],
       "keys": ["@iDaily.random"],
       "settings": [
@@ -371,7 +371,7 @@
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/idaily_tran.png",
         "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/idaily.png"
       ],
-      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/iDaily/idaily.js"
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/iDaily/idaily.js"
     },    
 {
       "id": "Alipay",
@@ -395,7 +395,7 @@
       ],
       "author": "@Worryfrees",
       "repo": "https://github.com/Worryfrees/script",
-      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Quantumultx/alipay/Alipay.js",
+      "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/alipay/Alipay.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/alipay.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/alipay.png"]

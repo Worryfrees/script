@@ -6,8 +6,8 @@ import requests
 import random
 #=============需要修改的参数==========
 
-phone = ''#小米账号
-password = ''#密码
+phone = '18616100030'#小米账号
+password = 'maxiang520521'#密码
 step = int(random.uniform(50000,60000))
 
 #=============需要修改的参数==========

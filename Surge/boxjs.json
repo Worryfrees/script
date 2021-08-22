@@ -212,7 +212,7 @@
       "id": "xmSports",
       "name": "多账号运动",
       "keys": ["@xmSports.token", "@xmSports.minStep", "@xmSports.maxStep"],
-      "author": "@dompling",
+      "author": "@Worryfrees",
       "settings": [
         {
           "id": "@xmSports.token",

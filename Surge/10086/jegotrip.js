@@ -7,7 +7,7 @@ const userId = $.getData('id77_jegotrip_userId');
 const mobile = $.getData('id77_jegotrip_mobile');
 const token = $.getData('id77_jegotrip_token');
 const taskId =
-  $.getData('id77_jegotrip_taskId') || '2c909969630101e7016325c827520000';
+  $.getData('id77_jegotrip_taskId') || 'eea3a2fa9dc54167a4d3f8f24719f8ec';
 
 const headers = {
   Origin: `http://task.jegotrip.com.cn:8080`,

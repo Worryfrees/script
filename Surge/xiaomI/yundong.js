@@ -43,12 +43,12 @@ function getToken() {
     const body = JSON.parse($response.body);
     const loginToken = body.token_info.login_token;
     $.log(`${$.name}token\n${loginToken}\n`)
-    if ($.getdata('xmSportsToken')) {
+    if ($.getdata('xmYdToken')) {
       $.msg($.name, '更新Token: 成功🎉', ``);
     } else {
       $.msg($.name, '获取Token: 成功🎉', '');
     }
-    $.setdata(loginToken, 'xmSportsToken');
+    $.setdata(loginToken, 'xmYdToken');
   }
   $.done({})
 }

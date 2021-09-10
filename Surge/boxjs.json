@@ -209,7 +209,7 @@
       "script": "https://raw.githubusercontent.com/Worryfrees/script/main/Surge/caiyun/caiyun.js"
     } ,
     {
-      "id": "xmSports",
+      "id": "xmYd",
       "name": "小米运动",
       "keys": [
         "xmSportsToken",
@@ -218,7 +218,7 @@
       ],
       "settings": [
         {
-          "id": "xmSportsToken",
+          "id": "xmYdToken",
           "name": "小米运动Token",
           "val": "",
           "type": "text",

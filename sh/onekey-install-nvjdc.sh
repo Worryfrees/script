@@ -169,7 +169,7 @@ exit
 install_nvjdc(){
 echo -e "${red}开始进行安装,请根据命令提示操作${plain}"
 apt install git -y || yum install git -y > /dev/null 
-git clone https://try.gitea.io/telegraph/nvjdcdocker.git /root/nolanjdc
+git clone https://gitlab.com/Worryfree/nvjdcdocker.git /root/nolanjdc
 if [ ! -d "/root/nolanjdc/.local-chromium/Linux-884014" ]; then
 cd nolanjdc
 echo -e "${green}正在拉取chromium-browser-snapshots,体积100多M，请耐心等待下一步命令提示···${plain}"
@@ -287,7 +287,7 @@ update_nvjdc(){
   docker stop nvjdc
   apt install git -y || yum install git -y > /dev/null 
   if [ ! -d "/root/nolanjdc" ];then
-  git clone https://try.gitea.io/telegraph/nvjdcdocker.git /root/nolanjdc
+  git clone https://gitlab.com/Worryfree/nvjdcdocker.git /root/nolanjdc
 else
   cd /root/nolanjdc && git pull
 fi

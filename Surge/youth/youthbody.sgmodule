@@ -3,8 +3,8 @@
 #!system=ios 
 
 [Script]
-中青body获取 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/Youth_Read.js,script-update-interval=0
-中青body获取 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/Youth_Read.js,script-update-interval=0
+中青body获取 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json,requires-body=1,max-size=0,script-path=https://git.telegraph.workers.dev/Worryfrees/script/main/Surge/youth/Youth_Read.js,script-update-interval=0
+中青body获取 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json,requires-body=1,max-size=0,script-path=https://git.telegraph.workers.dev/Worryfrees/script/main/Surge/youth/Youth_Read.js,script-update-interval=0
 
 [MITM]
 hostname = ios.baertt.com

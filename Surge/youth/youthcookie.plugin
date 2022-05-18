@@ -1,1 +1,13 @@
-1
+#!name=中青cookie
+#!desc=中青cookie获取
+
+[Script]
+http-request https:\/\/ios\.baertt\.com\/v5\/\w+\/withdraw\d?\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/youth.js, requires-body=true, timeout=10, tag=中青cookie获取
+http-request https:\/\/ios\.baertt\.com\/v5\/Nameless\/adlickstart\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/youth_gain.js, requires-body=true, timeout=10, tag=中青cookie获取
+http-request https:\/\/ios\.baertt\.com\/v5\/task\/browse_start\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/youth_gain.js, requires-body=true, timeout=10, tag=中青cookie获取
+http-request https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/youth.js, requires-body=true, timeout=10, tag=中青cookie获取
+http-request https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/youth.js, requires-body=true, timeout=10, tag=中青cookie获取
+http-request https:\/\/kd\.youth\.cn\/WebApi\/NewTaskIos\/getTaskList script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/youth.js, requires-body=true, timeout=10, tag=中青cookie获取
+
+[MITM]
+hostname = kd.youth.cn, ios.baertt.com

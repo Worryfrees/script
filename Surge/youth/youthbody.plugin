@@ -1,1 +1,9 @@
-1
+#!name=中青body
+#!desc=中青body获取
+
+[Script]
+http-request https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/Youth_Read.js, requires-body=true, timeout=10, tag=中青body获取
+http-request https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json script-path=https://raw.githubusercontent.com/Worryfrees/script/main/Surge/youth/Youth_Read.js, requires-body=true, timeout=10, tag=中青body获取
+
+[MITM]
+hostname = ios.baertt.com
